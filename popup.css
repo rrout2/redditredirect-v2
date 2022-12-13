@@ -13,15 +13,21 @@ p {
   margin-bottom: 1em;
   color: #6f42c1;
 }
+
+/* Added styles for the "r/" and the input field */
+span, input {
+  font-size: 1em;
+  margin-bottom: 0.5em;
+  color: #6f42c1;
+}
 input {
   width: 20em;
   height: 2em;
-  font-size: 1em;
   padding: 0.5em;
-  margin-bottom: 0.5em;
   background-color: #ffffff;
   border: 1px solid #6f42c1;
 }
+
 button {
   width: 7em;
   height: 2.5em;
